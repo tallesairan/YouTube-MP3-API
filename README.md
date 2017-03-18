@@ -1,5 +1,5 @@
 # YouTube-MP3-API
-Download Videos from YouTube within a Click.
+Download Videos from YouTube within a Click. The API is powered by http://www.ytdl.info
 
 # Which formats are supported
 
